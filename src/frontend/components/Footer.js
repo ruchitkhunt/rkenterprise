@@ -1,10 +1,10 @@
 import React from 'react';
 
 const SOCIAL_LINKS = [
-  { id: 1, icon: 'lni lni-facebook-filled', label: 'Facebook', url: 'https://facebook.com' },
-  { id: 2, icon: 'lni lni-twitter-filled', label: 'Twitter', url: 'https://twitter.com' },
-  { id: 3, icon: 'lni lni-instagram-filled', label: 'Instagram', url: 'https://instagram.com' },
-  { id: 4, icon: 'lni lni-linkedin-original', label: 'LinkedIn', url: 'https://linkedin.com' },
+  // { id: 1, icon: 'lni lni-facebook-filled', label: 'Facebook', url: 'https://facebook.com' },
+  // { id: 2, icon: 'lni lni-twitter-filled', label: 'Twitter', url: 'https://twitter.com' },
+  // { id: 3, icon: 'lni lni-instagram-filled', label: 'Instagram', url: 'https://instagram.com' },
+  // { id: 4, icon: 'lni lni-linkedin-original', label: 'LinkedIn', url: 'https://linkedin.com' },
 ];
 
 const QUICK_LINKS = [
@@ -96,7 +96,7 @@ const Footer = () => (
         </div>
         <div className="copyright-wrapper wow fadeInUp" data-wow-delay=".2s">
           <p>
-            &copy; {new Date().getFullYear()} RK ENTERPRISE. All Rights Reserved. Leading Manufacturer and Distributors of Tapes since 2014.
+            &copy; {new Date().getFullYear()} RK ENTERPRISE. All Rights Reserved.
           </p>
         </div>
       </div>
